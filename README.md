@@ -27,13 +27,16 @@ Software: Flash the respective codes in /src(coming soon) to the two ESP32-S3s u
 
 Bill of Materials:
 
-Component	              Cost(AED)	Cost(USD)	    Link
-Hosyond 2.8'' Screen	  79.29	    21.60490463	  https://amzn.eu/d/0iEEv7Ig
-ESP32-S3 SIM7670G	      179.79	  48.99	        https://www.waveshare.com/esp32-s3-sim7670g-4g.htm
-32GB Storage SD Card	  16	      4.359673025	  https://amzn.eu/d/0a1YgC0N
-3.7V 3200mAH Battery	  80.92	    22.04904632	  https://www.amazon.in/dp/B0F3XHNRPT?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_6
-Capacitative Stylus	    2.00	    0.5449591281	https://www.amazon.in/dp/B0FHW2K49G?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_8
-Delivery & Tax	        50.1689	  13.67	        NA
-Total	                  408.17	  111.2185831	  NA
+Component	              Cost(AED)	 Cost(USD)	    Link
+Hosyond 2.8'' Screen	  79.29	     21.60490463	  https://amzn.eu/d/0iEEv7Ig
+ESP32-S3 SIM7670G	      179.79	   48.99	        https://www.waveshare.com/esp32-s3-sim7670g-4g.htm
+32GB Storage SD Card	  16	       4.359673025	  https://amzn.eu/d/0a1YgC0N
+3.7V 3200mAH Battery	  80.92	     22.04904632	  https://www.amazon.in/dp/B0F3XHNRPT?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_6
+Capacitative Stylus	    2.00	     0.5449591281	  https://www.amazon.in/dp/B0FHW2K49G?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_8
+Delivery & Tax	        50.1689	   13.67	        NA
+Total	                  408.17	   111.2185831	  NA
 
-(If you are trying to replicate this project, you can definitely change the parts as long as they are functional)
+(If you are trying to replicate this project, you can definitely change the parts as long as they are functional and good enough for the project.)
+(I have made two variants of this project, one uses a PCB and one doesn't, at first I will be using the version without a PCB. If you find the version with the PCB better, you can definitely use it. Just remember to replace the SIM7670G with this(as it uses EC200U rather than SIM7670G: 
+
+https://evelta.com/7semi-esp32-s3-ec200u-4g-lte-cat-1-wifi-bluetooth-gnss-iot-smart-modem/?sku=004-DC-10120&utm_campaign=PMax_7Semi_Brand&utm_source=google&utm_medium=cpc&utm_matchtype=&utm_term=&adgroupid=&gc_id=21448253640&h_ad_id=&gad_source=1&gad_campaignid=21448255362&gbraid=0AAAAADwtsXniiHdx4kQmTVuiIV6Tp6DU1&gclid=CjwKCAjwyuDTBhB-EiwANCQhLGBQXLIfmObVwrfRuaRKQDc5tHNnd7hCKBzqb87wfotB9UMXs5gdgRoCigwQAvD_BwE)
