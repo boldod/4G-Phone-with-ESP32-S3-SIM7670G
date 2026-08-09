@@ -11,6 +11,8 @@ Features:
 
 2.8" Capacitive Touch Display
 
+Camera and audio
+
 Custom 3D printed chassis
 
 Architecture:
