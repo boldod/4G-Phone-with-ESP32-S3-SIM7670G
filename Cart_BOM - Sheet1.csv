@@ -1,17 +1,8 @@
-Component,Cost(INR),Cost(USD),Link
-Hosyond 2.8'' Screen,"3,456.84",36.0242136,https://www.amazon.in/dp/B0FKG7WRWV?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9
-Electret Microphone,172,1.79243608,https://www.amazon.in/dp/B07MKP39JC?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_1
-Power supply module,259,2.69907526,https://www.amazon.in/dp/B0GT4S1MHG?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_2
-B203 Potentiometer,153,1.59443442,https://www.amazon.in/dp/B08WKQVSST?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_3
-GPS ceramic Antenna,294,3.06381516,https://www.amazon.in/dp/B0868RJPTK?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_4
-32GB Storage SD Card,742,7.73248588,https://www.amazon.in/dp/B0GXKWB6YV?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_5
-3.7V 3200mAH Battery,629,6.55489706,https://www.amazon.in/dp/B0F3XHNRPT?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_6
-8 Ohm Speaker,399,4.15803486,https://www.amazon.in/dp/B0FY231NPS?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_7
-Capacitative Stylus,148.00,1.54232872,https://www.amazon.in/dp/B0FHW2K49G?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_8
-ESP32-S3+EC200U,"2,235.75",23.29906376,https://sharvielectronics.com/product/esp32-s3-with-ec200u-4g-lte-cat-1-wifi-bluetooth-gnss-iot-smart-modem/
-4G LTE Antenna,171.96,1.792019234,https://sharvielectronics.com/product/4g-lte-wifi-bluetooth-fpc-antenna-with-u-fl-connector-60mm-cable-length/
-MSS22D18 Slide Switch,61.4,0.639857996,https://sharvielectronics.com/product/mss22d18-3pin-spdt-right-angle-slide-switch-2-5mm-pitch/
-PCB manufacturin,191.63,2,
-PCBA assembly,1478.4,15.43,
-Delivery & Tax,959.69,10,
-Total,"11,351.67",118.322662,
+Component	Cost(AED)	Cost(USD)	Link
+Hosyond 2.8'' Screen	79.29	21.60490463	https://amzn.eu/d/0iEEv7Ig
+ESP32-S3 SIM7670G	179.79	48.99	https://www.waveshare.com/esp32-s3-sim7670g-4g.htm
+32GB Storage SD Card	16	4.359673025	https://amzn.eu/d/0a1YgC0N
+3.7V 3200mAH Battery	80.92	22.04904632	https://www.amazon.in/dp/B0F3XHNRPT?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_6
+Capacitative Stylus	2.00	0.5449591281	https://www.amazon.in/dp/B0FHW2K49G?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_8
+Delivery & Tax	50.1689	13.67	NA
+Total	408.17	111.2185831	NA
