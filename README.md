@@ -29,14 +29,14 @@ Software: Flash the respective codes in /src(coming soon) to the two ESP32-S3s u
 
 Bill of Materials:
 
-Component	              Cost(AED)	 Cost(USD)	    Link
-Hosyond 2.8'' Screen	  79.29	     21.60490463	  https://amzn.eu/d/0iEEv7Ig
-ESP32-S3 SIM7670G	      179.79	   48.99	        https://www.waveshare.com/esp32-s3-sim7670g-4g.htm
-32GB Storage SD Card	  16	       4.359673025	  https://amzn.eu/d/0a1YgC0N
-3.7V 3200mAH Battery	  80.92	     22.04904632	  https://www.amazon.in/dp/B0F3XHNRPT?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_6
-Capacitative Stylus	    2.00	     0.5449591281	  https://www.amazon.in/dp/B0FHW2K49G?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_8
-Delivery & Tax	        50.1689	   13.67	        NA
-Total	                  408.17	   111.2185831	  NA
+Component	              Cost(AED)	       Cost(USD)	    Link
+Hosyond 2.8'' Screen	  79.29	           21.60490463	  https://amzn.eu/d/0iEEv7Ig
+ESP32-S3 SIM7670G	      179.79	         48.99	        https://www.waveshare.com/esp32-s3-sim7670g-4g.htm
+32GB Storage SD Card	  16	             4.359673025	  https://amzn.eu/d/0a1YgC0N
+3.7V 3200mAH Battery	  0(already have)  0	            (already have)
+Capacitative Stylus	    2.00	           0.5449591281	  https://www.amazon.in/dp/B0FHW2K49G?psc=1&ref_=cm_sw_r_cp_ud_ct_RA1AZJE9ZNZMSNYY2FQ9_8
+Delivery & Tax	        50.1689	         13.67	        NA
+Total	                  327.25	         89.04      	  NA
 
 (If you are trying to replicate this project, you can definitely change the parts as long as they are functional and good enough for the project.)
 (I have made two variants of this project, one uses a PCB and one doesn't, at first I will be using the version without a PCB. If you find the version with the PCB better, you can definitely use it. Just remember to replace the SIM7670G with this(as it uses EC200U rather than SIM7670G: 
